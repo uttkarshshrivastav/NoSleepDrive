@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & datasets
+data/
+datasets/
+
+# Model weights
+*.pth
+*.ckpt
+
+# Logs & outputs
+logs/
+outputs/
+
+# OS files
+.DS_Store
