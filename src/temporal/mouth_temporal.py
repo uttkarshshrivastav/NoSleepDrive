@@ -3,7 +3,7 @@
 class YawnTemporalTracker:
     def __init__(
         self,
-        yawn_th=0.4,
+        yawn_th=0.5,
         min_yawn_duration=0.3,
         refractory_time=2.0
     ):
