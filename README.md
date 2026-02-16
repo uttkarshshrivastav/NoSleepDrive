@@ -64,7 +64,6 @@ EfficientNet-B0 - Base architecture for classification models<br>
 Backend & Database<br>
 
 Flask - Web framework for serving the application<br>
-Supabase - Cloud PostgreSQL database for session logging<br>
 Python 3.8+ - Core programming language<br>
 
 Frontend
